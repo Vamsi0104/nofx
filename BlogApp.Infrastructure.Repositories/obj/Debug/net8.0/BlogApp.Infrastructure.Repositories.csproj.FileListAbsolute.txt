@@ -1,0 +1,17 @@
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Infrastructure.Repositories\obj\Debug\net8.0\BlogApp.Infrastructure.Repositories.csproj.AssemblyReference.cache
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Infrastructure.Repositories\obj\Debug\net8.0\BlogApp.Infrastructure.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Infrastructure.Repositories\obj\Debug\net8.0\BlogApp.Infrastructure.Repositories.AssemblyInfoInputs.cache
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Infrastructure.Repositories\obj\Debug\net8.0\BlogApp.Infrastructure.Repositories.AssemblyInfo.cs
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Infrastructure.Repositories\obj\Debug\net8.0\BlogApp.Infrastructure.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Infrastructure.Repositories\bin\Debug\net8.0\BlogApp.Infrastructure.Repositories.deps.json
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Infrastructure.Repositories\bin\Debug\net8.0\BlogApp.Infrastructure.Repositories.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Infrastructure.Repositories\bin\Debug\net8.0\BlogApp.Infrastructure.Repositories.pdb
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Infrastructure.Repositories\bin\Debug\net8.0\BlogApp.Domain.Entities.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Infrastructure.Repositories\bin\Debug\net8.0\BlogApp.Domain.Interfaces.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Infrastructure.Repositories\bin\Debug\net8.0\BlogApp.Domain.Entities.pdb
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Infrastructure.Repositories\bin\Debug\net8.0\BlogApp.Domain.Interfaces.pdb
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Infrastructure.Repositories\obj\Debug\net8.0\BlogApp..4A696D7B.Up2Date
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Infrastructure.Repositories\obj\Debug\net8.0\BlogApp.Infrastructure.Repositories.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Infrastructure.Repositories\obj\Debug\net8.0\refint\BlogApp.Infrastructure.Repositories.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Infrastructure.Repositories\obj\Debug\net8.0\BlogApp.Infrastructure.Repositories.pdb
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Infrastructure.Repositories\obj\Debug\net8.0\ref\BlogApp.Infrastructure.Repositories.dll

@@ -1,0 +1,15 @@
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Interfaces\obj\Debug\net8.0\BlogApp.Domain.Interfaces.csproj.AssemblyReference.cache
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Interfaces\obj\Debug\net8.0\BlogApp.Domain.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Interfaces\obj\Debug\net8.0\BlogApp.Domain.Interfaces.AssemblyInfoInputs.cache
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Interfaces\obj\Debug\net8.0\BlogApp.Domain.Interfaces.AssemblyInfo.cs
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Interfaces\obj\Debug\net8.0\BlogApp.Domain.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Interfaces\bin\Debug\net8.0\BlogApp.Domain.Interfaces.deps.json
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Interfaces\bin\Debug\net8.0\BlogApp.Domain.Interfaces.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Interfaces\bin\Debug\net8.0\BlogApp.Domain.Interfaces.pdb
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Interfaces\bin\Debug\net8.0\BlogApp.Domain.Entities.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Interfaces\bin\Debug\net8.0\BlogApp.Domain.Entities.pdb
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Interfaces\obj\Debug\net8.0\BlogApp..5869418D.Up2Date
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Interfaces\obj\Debug\net8.0\BlogApp.Domain.Interfaces.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Interfaces\obj\Debug\net8.0\refint\BlogApp.Domain.Interfaces.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Interfaces\obj\Debug\net8.0\BlogApp.Domain.Interfaces.pdb
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Interfaces\obj\Debug\net8.0\ref\BlogApp.Domain.Interfaces.dll

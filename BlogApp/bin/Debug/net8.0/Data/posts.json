@@ -1,0 +1,19 @@
+[
+  {
+    "Id": 1,
+    "Title": "TestT1",
+    "Content": "T1",
+    "Comments": [
+      {
+        "Id": 0,
+        "PostId": 0,
+        "Message": "testing",
+        "CreatedAt": "2025-05-07T09:31:09.03Z",
+        "AuthorId": "67"
+      }
+    ],
+    "CreatedAt": "2025-05-07T09:31:43.2966611Z",
+    "AuthorId": "67",
+    "IsDeleted": false
+  }
+]

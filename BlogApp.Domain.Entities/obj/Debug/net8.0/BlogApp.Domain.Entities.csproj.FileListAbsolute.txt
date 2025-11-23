@@ -1,0 +1,11 @@
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Entities\bin\Debug\net8.0\BlogApp.Domain.Entities.deps.json
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Entities\bin\Debug\net8.0\BlogApp.Domain.Entities.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Entities\bin\Debug\net8.0\BlogApp.Domain.Entities.pdb
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Entities\obj\Debug\net8.0\BlogApp.Domain.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Entities\obj\Debug\net8.0\BlogApp.Domain.Entities.AssemblyInfoInputs.cache
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Entities\obj\Debug\net8.0\BlogApp.Domain.Entities.AssemblyInfo.cs
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Entities\obj\Debug\net8.0\BlogApp.Domain.Entities.csproj.CoreCompileInputs.cache
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Entities\obj\Debug\net8.0\BlogApp.Domain.Entities.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Entities\obj\Debug\net8.0\refint\BlogApp.Domain.Entities.dll
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Entities\obj\Debug\net8.0\BlogApp.Domain.Entities.pdb
+C:\Users\jha_p\OneDrive\Pictures\Datics Trainings\BlogApp\BlogApp.Domain.Entities\obj\Debug\net8.0\ref\BlogApp.Domain.Entities.dll
